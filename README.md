@@ -111,7 +111,4 @@ git remote add origin git@github.com:<your-name>/<your-repo>.git
 git push -u origin main
 ```
 
-## 备注
 
-- 当前项目目录中已经包含 `dist/` 与 `node_modules/`，正式上传到 GitHub 前，建议补充 `.gitignore`
-- 如果你需要，我可以继续帮你补一个适合这个项目的 `.gitignore`
